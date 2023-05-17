@@ -1,0 +1,167 @@
+{
+    "section1": {
+        "files": [
+            {
+                "url": "assets/images/arrowLeft.png",
+                "type": "image",
+                "key": "arrowLeft"
+            },
+            {
+                "url": "assets/sprites/blast.png",
+                "frameConfig": {
+                    "frameWidth": 160,
+                    "frameHeight": 160,
+                    "startFrame": 0,
+                    "endFrame": -1,
+                    "spacing": 0,
+                    "margin": 0
+                },
+                "type": "spritesheet",
+                "key": "blast"
+            },
+            {
+                "url": "assets/images/crashAdd.png",
+                "type": "image",
+                "key": "crashAdd"
+            },
+            {
+                "url": "assets/images/crashAdd2.png",
+                "type": "image",
+                "key": "crashAdd2"
+            },
+            {
+                "url": "assets/images/crashBg.png",
+                "type": "image",
+                "key": "crashBg"
+            },
+            {
+                "url": "assets/images/crashBoomFont.png",
+                "type": "image",
+                "key": "crashBoomFont"
+            },
+            {
+                "url": "assets/images/crashHistory.png",
+                "type": "image",
+                "key": "crashHistory"
+            },
+            {
+                "url": "assets/images/crashIcon.png",
+                "type": "image",
+                "key": "crashIcon"
+            },
+            {
+                "url": "assets/images/crashReduce.png",
+                "type": "image",
+                "key": "crashReduce"
+            },
+            {
+                "url": "assets/images/crashReduce2.png",
+                "type": "image",
+                "key": "crashReduce2"
+            },
+            {
+                "url": "assets/images/crashUncheck.png",
+                "type": "image",
+                "key": "crashUncheck"
+            },
+            {
+                "url": "assets/images/effect01.png",
+                "type": "image",
+                "key": "effect01"
+            },
+            {
+                "url": "assets/images/effect02.png",
+                "type": "image",
+                "key": "effect02"
+            },
+            {
+                "url": "assets/images/effect03.png",
+                "type": "image",
+                "key": "effect03"
+            },
+            {
+                "url": "assets/images/effect04.png",
+                "type": "image",
+                "key": "effect04"
+            },
+            {
+                "url": "assets/images/effect05.png",
+                "type": "image",
+                "key": "effect05"
+            },
+            {
+                "url": "assets/images/effect06.png",
+                "type": "image",
+                "key": "effect06"
+            },
+            {
+                "url": "assets/images/effect07.png",
+                "type": "image",
+                "key": "effect07"
+            },
+            {
+                "url": "assets/images/effect08.png",
+                "type": "image",
+                "key": "effect08"
+            },
+            {
+                "url": "assets/images/effect09.png",
+                "type": "image",
+                "key": "effect09"
+            },
+            {
+                "url": "assets/images/effect10.png",
+                "type": "image",
+                "key": "effect10"
+            },
+            {
+                "url": "assets/images/myDefault.png",
+                "type": "image",
+                "key": "myDefault"
+            },
+            {
+                "url": "assets/animations/rocket.json",
+                "type": "animation",
+                "key": "rocket"
+            },
+            {
+                "url": "assets/sprites/rocket_h.png",
+                "frameConfig": {
+                    "frameWidth": 310,
+                    "frameHeight": 110,
+                    "startFrame": 0,
+                    "endFrame": -1,
+                    "spacing": 0,
+                    "margin": 0
+                },
+                "type": "spritesheet",
+                "key": "rocket_h"
+            },
+            {
+                "url": "assets/sprites/rocket_v.png",
+                "frameConfig": {
+                    "frameWidth": 110,
+                    "frameHeight": 270,
+                    "startFrame": 0,
+                    "endFrame": -1,
+                    "spacing": 0,
+                    "margin": 0
+                },
+                "type": "spritesheet",
+                "key": "rocket_v"
+            },
+            {
+                "url": "assets/images/soundOff.png",
+                "type": "image",
+                "key": "soundOff"
+            }
+        ]
+    },
+    "meta": {
+        "app": "Phaser Editor 2D - Asset Pack Editor",
+        "contentType": "phasereditor2d.pack.core.AssetContentType",
+        "url": "https://phasereditor2d.com",
+        "version": 2,
+        "showAllFilesInBlocks": false
+    }
+}
