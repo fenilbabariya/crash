@@ -27,8 +27,105 @@
                     },
                     "scaleX": 1.7,
                     "scaleY": 1.7
+                },
+                {
+                    "type": "Rectangle",
+                    "id": "9aca8a07-87d4-44c0-8816-38c5cd2e9e30",
+                    "label": "graph_x",
+                    "components": [],
+                    "x": 470,
+                    "y": 293,
+                    "originX": 1,
+                    "isFilled": true,
+                    "fillColor": "#4c4c4c",
+                    "width": 950,
+                    "height": 5
+                },
+                {
+                    "type": "Rectangle",
+                    "id": "1a5601bb-bba7-43ab-9b15-ede57aa1f977",
+                    "label": "graph_y",
+                    "components": [],
+                    "x": 470,
+                    "y": 293,
+                    "originX": 1,
+                    "originY": 1,
+                    "isFilled": true,
+                    "fillColor": "#4c4c4c",
+                    "width": 5,
+                    "height": 610
                 }
             ]
+        },
+        {
+            "type": "Sprite",
+            "id": "5e26786b-be02-4377-a7bf-86b70eb56a5a",
+            "label": "rocket",
+            "scope": "CLASS",
+            "components": [],
+            "texture": {
+                "key": "rocket_h",
+                "frame": 0
+            },
+            "x": 250,
+            "y": 1098
+        },
+        {
+            "type": "Container",
+            "id": "9bf9c0a3-d167-496d-be1c-fba17bc8f33b",
+            "label": "container_timer",
+            "components": [],
+            "x": 729,
+            "y": 1080,
+            "list": [
+                {
+                    "type": "Text",
+                    "id": "1b5f2d25-dd76-46cd-94fd-78228f0d9bd2",
+                    "label": "text_1",
+                    "components": [],
+                    "originX": 0.5,
+                    "originY": 0.5,
+                    "text": "Next round in",
+                    "align": "center",
+                    "fontFamily": "Verdana",
+                    "fontSize": "40px",
+                    "fontStyle": "bold",
+                    "color": "#000"
+                },
+                {
+                    "type": "Text",
+                    "id": "243a7b77-dc03-4bb8-b3e5-42cea57d60c2",
+                    "label": "txt_game_timer",
+                    "scope": "CLASS",
+                    "components": [],
+                    "y": 50,
+                    "originX": 0.5,
+                    "originY": 0.5,
+                    "text": "0",
+                    "align": "center",
+                    "fontFamily": "Verdana",
+                    "fontSize": "40px",
+                    "fontStyle": "bold",
+                    "color": "#000"
+                }
+            ]
+        },
+        {
+            "type": "Text",
+            "id": "7c8524df-a728-49d9-9e22-3b1cf6655377",
+            "label": "txt_amount_x",
+            "scope": "CLASS",
+            "components": [],
+            "x": 540,
+            "y": 740,
+            "originX": 0.5,
+            "originY": 0.5,
+            "text": "5X",
+            "align": "center",
+            "fontFamily": "Verdana",
+            "fontSize": "40px",
+            "fontStyle": "bold",
+            "color": "#00f"
         }
     ],
     "plainObjects": [],

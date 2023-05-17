@@ -115,6 +115,11 @@
                 "key": "effect10"
             },
             {
+                "url": "src/scripts/GameManager.js",
+                "type": "script",
+                "key": "GameManager"
+            },
+            {
                 "url": "assets/images/myDefault.png",
                 "type": "image",
                 "key": "myDefault"
